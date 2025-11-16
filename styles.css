@@ -150,7 +150,7 @@ h1, h2, h3, h4 {
 }
 
 .logo-image {
-    height: 40px; /* Adjust height to fit the new header strip */
+    height: 65px; /* Adjust height to fit the new header strip */
     width: auto;
 }
 
@@ -416,7 +416,7 @@ h1, h2, h3, h4 {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-/* FIX: Enhanced Service Card Glow */
+/* MODIFIED: Enhanced Service Card Glow */
 .service-card:hover {
     transform: translateY(-8px); 
     box-shadow: 0 15px 30px rgba(0, 122, 204, 0.5); /* Stronger glow */
