@@ -150,7 +150,7 @@ h1, h2, h3, h4 {
 }
 
 .logo-image {
-    height: 65px; /* Adjust height to fit the new header strip */
+    height: 40px; /* Adjust height to fit the new header strip */
     width: auto;
 }
 
